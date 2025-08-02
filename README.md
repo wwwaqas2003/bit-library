@@ -59,7 +59,8 @@ BIT_IEEE_website/
 
 ## 📸 Preview
 
-> Replace with your deployed URL or image previews
+> <img width="1890" height="905" alt="Screenshot 2025-08-02 221235" src="https://github.com/user-attachments/assets/70ed6b5b-a9e3-4be6-82c6-222b14945566" />
+
 
 
 ---
@@ -108,3 +109,4 @@ AOS Animate on Scroll
 Alan AI
 
 Made with 💙 by Waqas Jamal Siddiqui
+
